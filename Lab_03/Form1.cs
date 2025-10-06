@@ -156,7 +156,8 @@ namespace Lab_03
             cmbFonts.SelectedItem = "Tahoma";
             cmbSizes.SelectedItem = 14;
             UpdateRichTextBoxFont();
-
+            //end
+            //end
         }
     }
 }
